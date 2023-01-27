@@ -6,3 +6,4 @@
 
 6- o que e push
 7- o que e branch
+8- o que e pull request 
