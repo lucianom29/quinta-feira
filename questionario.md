@@ -23,6 +23,8 @@ enviar informacoes empacotadas (comits) do repositorio local para o repositorio 
 
 7- o que e branch
 
+e uma ramificaçaodo do projeto.
+
 8- o que e pull request
  
 9- o que e fork 
