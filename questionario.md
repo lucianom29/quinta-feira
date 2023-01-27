@@ -19,6 +19,8 @@ trazer alteracoes de um repositorio remoto para para o repositorio local
 
 6- o que e push
 
+enviar informacoes empacotadas (comits) do repositorio local para o repositorio remoto
+
 7- o que e branch
 
 8- o que e pull request
