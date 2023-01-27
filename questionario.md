@@ -7,7 +7,8 @@ e a copia de um repositorio remoto para maquina local
 empacotacao de alteracaes
 
 3- o que e um repositorio ? 
- 
+ e a pasta onde sao colocadas os arquivos do projeto
+
 4- o que e merge ?
 
 5- o que e pull ?
