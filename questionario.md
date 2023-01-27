@@ -34,3 +34,5 @@ solitaçao de atualisaçao em projetos de terceiros,faça o pull request apos re
 copiar um repositoriode outro usuario.
 
 10- o que e um vcs 
+
+sofware de controle de versao
