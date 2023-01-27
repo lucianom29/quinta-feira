@@ -15,6 +15,8 @@ juntar duas branchs
 
 5- o que e pull ?
 
+trazer alteracoes de um repositorio remoto para para o repositorio local 
+
 6- o que e push
 
 7- o que e branch
