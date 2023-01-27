@@ -11,6 +11,8 @@ empacotacao de alteracaes
 
 4- o que e merge ?
 
+juntar duas branchs
+
 5- o que e pull ?
 
 6- o que e push
