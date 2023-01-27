@@ -31,4 +31,6 @@ solitaçao de atualisaçao em projetos de terceiros,faça o pull request apos re
 
 9- o que e fork 
 
+copiar um repositoriode outro usuario.
+
 10- o que e um vcs 
