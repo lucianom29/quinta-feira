@@ -27,6 +27,8 @@ e uma ramificaçaodo do projeto.
 
 8- o que e pull request
  
+solitaçao de atualisaçao em projetos de terceiros,faça o pull request apos realisar um fork e uma alteraçao no projeto de outra pessoa.
+
 9- o que e fork 
 
 10- o que e um vcs 
