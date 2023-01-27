@@ -4,6 +4,8 @@ e a copia de um repositorio remoto para maquina local
 
 2- o que e commit ?
 
+empacotacao de alteracaes
+
 3- o que e um repositorio ? 
  
 4- o que e merge ?
